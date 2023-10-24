@@ -109,6 +109,14 @@ Type ```http://localhost/onlinecarbooking/admin.php``` in the browser.
 <img src="Readme-images/footer.png" alt="Footer" height=80px width=340px>
 
 ## 📰 References
+- CAR BOOKING SYSTEMS ONLINE[PDF](https://www.jetir.org/papers/JETIRFE06047.pdf)
+- How to buy a new car online [link](https://www.financialexpress.com/auto/car-news/how-to-buy-a-new-car-online-hyundai-click-to-buy-toyota-maruti-suzuki-mahindra-bmw-mercedes/2253052/)
 
 ## 👩🏻‍🤝‍🧑🏻 Contributors
+- 🌱 Thanks a lot for spending your time helping OnlineCarBooking grow. 🙌
 
+<p align="left">
+ <a href="https://github.com/PentW0lf/OnlineCarBooking/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=PentW0lf/OnlineCarBooking" />
+ </a>
+</p>
